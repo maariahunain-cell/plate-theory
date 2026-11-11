@@ -1,0 +1,2 @@
+import {Link} from 'react-router-dom'
+export default function Logo(){return <Link to="/" className="plate-theory-logo" aria-label="Plate Theory home">PLATE THEORY<span className="logo-dot">.</span></Link>}
